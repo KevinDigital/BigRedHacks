@@ -2,7 +2,7 @@
 
 A game by Kevin Li, Justin Tran, and Edwin Ma
 
-All backgrounds, character models, and art designs were created from scratch.
+All game logic, backgrounds, character models, and art designs were created from scratch in less that 24 hours.
 
 To run this game, make sure you have the PyGame library installed.
 
